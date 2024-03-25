@@ -35,6 +35,7 @@ public class Webautomation
 		// Logout the account
 		driver.close();
 		// Closes the current tab in browser
+		//new comments
 		
 	}
 
